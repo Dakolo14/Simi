@@ -3,20 +3,71 @@ import InfiniteGallery from "@/components/InfiniteGallery";
 
 export default function Home() {
   const sampleImages = [
-    { src: "/images/12 Hours Poster.jpg", alt: "12 Hours Poster" },
-    { src: "/images/UEFAchamps.jpg", alt: "UEFA Champions League" },
-    { src: "/images/3.jpg", alt: "Project Image 3" },
-    { src: "/images/coke-rema.jpg", alt: "Coke x Rema" },
-    { src: "/images/kcee-live.jpg", alt: "Kcee Live" },
-    { src: "/images/klint.jpg", alt: "Klint da Drunk" },
-    { src: "/images/1.jpg", alt: "Project Image 1" },
-    { src: "/images/lasisi.jpg", alt: "Lasisi Elenu" },
-    { src: "/images/nas.jpg", alt: "Nas Boi" },
-    { src: "/images/5.jpg", alt: "Project Image 5" },
-    { src: "/images/BNet Designs 5 (41).jpg", alt: "BNet Design" },
-    { src: "/images/Bside25 1080x1350.jpg", alt: "Bside 25" },
-    { src: "/images/2.jpg", alt: "Project Image 2" },
-    { src: "/images/4.jpg", alt: "Project Image 4" },
+    {
+      src: "/images/still/posters/12 Hours Poster.jpg",
+      alt: "12 Hours Poster",
+    },
+    {
+      src: "/images/still/posters/UEFAchamps.jpg",
+      alt: "UEFA Champions League",
+    },
+    {
+      src: "/images/still/Digital painting/THE EXHIBITION.jpg",
+      alt: "Project Image 4",
+    },
+    { src: "/images/still/coke/3.jpg", alt: "Project Image 3" },
+    {
+      src: "/images/still/manipulations/creamy.jpg",
+      alt: "Project Image 4",
+    },
+    { src: "/images/still/coke/coke-rema.jpg", alt: "Coke x Rema" },
+    {
+      src: "/images/still/Adekunle Gold/Adekunle Gold at the National Theatre (4).jpg",
+      alt: "Project Image 4",
+    },
+    { src: "/images/still/Kcee Live/KCEE_live.jpg", alt: "Kcee Live" },
+    { src: "/images/still/pencil/klint.jpg", alt: "Klint da Drunk" },
+    {
+      src: "/images/still/manipulations/coldstone.jpg",
+      alt: "Project Image 4",
+    },
+    { src: "/images/still/coke/1.jpg", alt: "Project Image 1" },
+    { src: "/images/still/pencil/lasisi.jpg", alt: "Lasisi Elenu" },
+    { src: "/images/still/pencil/nas.jpg", alt: "Nas Boi" },
+    {
+      src: "/images/still/Digital painting/FallFromGrace.jpg",
+      alt: "Project Image 4",
+    },
+    {
+      src: "/images/still/manipulations/fly.jpg",
+      alt: "Project Image 4",
+    },
+    { src: "/images/still/coke/5.jpg", alt: "Project Image 5" },
+    {
+      src: "/images/still/Digital painting/pig1.jpg",
+      alt: "Project Image 4",
+    },
+    { src: "/images/still/bounce web/rema.jpg", alt: "BNet Design" },
+    { src: "/images/still/bounce web/fireboy.jpg", alt: "Bside 25" },
+    { src: "/images/still/coke/2.jpg", alt: "Project Image 2" },
+    { src: "/images/still/coke/4.jpg", alt: "Project Image 4" },
+    { src: "/images/still/konga web/NSF5.jpg", alt: "Project Image 4" },
+    {
+      src: "/images/still/manipulations/gordon.jpg",
+      alt: "Project Image 4",
+    },
+    {
+      src: "/images/still/Adekunle Gold/Adekunle Gold at the National Theatre (3).jpg",
+      alt: "Project Image 4",
+    },
+    {
+      src: "/images/still/posters/Bside25 1080x1350.jpg",
+      alt: "Project Image 4",
+    },
+    {
+      src: "/images/still/Digital painting/igbadun is important.jpg",
+      alt: "Project Image 4",
+    },
   ];
 
   return (

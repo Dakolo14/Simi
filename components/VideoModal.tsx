@@ -45,15 +45,24 @@ export default function VideoModal({
         className="relative w-full max-w-6xl aspect-video mx-4 md:mx-10 animate-in zoom-in-95 duration-300"
         onClick={(e) => e.stopPropagation()}
       >
-        <video
-          src={videoSrc}
-          className="w-full h-full rounded-lg shadow-2xl"
-          controls
-          autoPlay
-          playsInline
-        >
-          Your browser does not support the video tag.
-        </video>
+        {videoSrc.toLowerCase().endsWith(".gif") ? (
+          // eslint-disable-next-line @next/next/no-img-element
+          <img
+            src={videoSrc}
+            alt="Full screen preview"
+            className="w-full h-full object-contain rounded-lg shadow-2xl"
+          />
+        ) : (
+          <video
+            src={videoSrc}
+            className="w-full h-full rounded-lg shadow-2xl"
+            controls
+            autoPlay
+            playsInline
+          >
+            Your browser does not support the video tag.
+          </video>
+        )}
       </div>
 
       {/* Click backdrop to close */}

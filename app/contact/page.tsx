@@ -1,6 +1,6 @@
 "use client";
 
-import { ArrowUpRight, Mail, MapPin } from "lucide-react";
+import { ArrowUpRight, Mail, Phone } from "lucide-react";
 import Link from "next/link";
 
 export default function ContactPage() {
@@ -40,24 +40,29 @@ export default function ContactPage() {
               Email
             </h2>
             <a
-              href="mailto:hello@simeone.com"
+              href="mailto:simiowairearts@gmail.com"
               className="block text-3xl md:text-4xl font-serif hover:text-white/70 transition-colors decoration-1 underline-offset-8 hover:underline"
             >
-              hello@simeone.com
+              simiowairearts@gmail.com
             </a>
           </div>
 
-          {/* Location Section */}
+          {/* Phone Section */}
           <div className="space-y-4">
             <h2 className="text-sm font-mono uppercase tracking-widest text-white/40">
-              Location
+              Phone
             </h2>
             <div className="flex items-center gap-2 text-2xl font-light">
-              <MapPin className="w-5 h-5 text-white/60" />
-              <span>Lagos, Nigeria</span>
+              <Phone className="w-5 h-5 text-white/60" />
+              <a
+                href="tel:07062985865"
+                className="hover:text-white/80 transition-colors"
+              >
+                07062985865
+              </a>
             </div>
             <p className="text-white/40 text-sm">
-              Available for remote work worldwide
+              Available for calls and WhatsApp
             </p>
           </div>
 
