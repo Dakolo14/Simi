@@ -15,12 +15,12 @@ export default function Home() {
       src: "/images/still/Digital painting/THE EXHIBITION.jpg",
       alt: "Project Image 4",
     },
-    { src: "/images/still/coke/3.jpg", alt: "Project Image 3" },
+    { src: "/images/still/Coke/3.jpg", alt: "Project Image 3" },
     {
       src: "/images/still/manipulations/creamy.jpg",
       alt: "Project Image 4",
     },
-    { src: "/images/still/coke/coke-rema.jpg", alt: "Coke x Rema" },
+    { src: "/images/still/Coke/coke-rema.jpg", alt: "Coke x Rema" },
     {
       src: "/images/still/Adekunle Gold/Adekunle Gold at the National Theatre (4).jpg",
       alt: "Project Image 4",
@@ -31,7 +31,7 @@ export default function Home() {
       src: "/images/still/manipulations/coldstone.jpg",
       alt: "Project Image 4",
     },
-    { src: "/images/still/coke/1.jpg", alt: "Project Image 1" },
+    { src: "/images/still/Coke/1.jpg", alt: "Project Image 1" },
     { src: "/images/still/pencil/lasisi.jpg", alt: "Lasisi Elenu" },
     { src: "/images/still/pencil/nas.jpg", alt: "Nas Boi" },
     {
@@ -42,15 +42,15 @@ export default function Home() {
       src: "/images/still/manipulations/fly.jpg",
       alt: "Project Image 4",
     },
-    { src: "/images/still/coke/5.jpg", alt: "Project Image 5" },
+    { src: "/images/still/Coke/5.jpg", alt: "Project Image 5" },
     {
       src: "/images/still/Digital painting/pig1.jpg",
       alt: "Project Image 4",
     },
     { src: "/images/still/bounce web/rema.jpg", alt: "BNet Design" },
     { src: "/images/still/bounce web/fireboy.jpg", alt: "Bside 25" },
-    { src: "/images/still/coke/2.jpg", alt: "Project Image 2" },
-    { src: "/images/still/coke/4.jpg", alt: "Project Image 4" },
+    { src: "/images/still/Coke/2.jpg", alt: "Project Image 2" },
+    { src: "/images/still/Coke/4.jpg", alt: "Project Image 4" },
     { src: "/images/still/konga web/NSF5.jpg", alt: "Project Image 4" },
     {
       src: "/images/still/manipulations/gordon.jpg",
