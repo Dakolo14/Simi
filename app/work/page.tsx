@@ -47,48 +47,6 @@ export default function WorkPage() {
       ],
     },
     {
-      id: "digital-painting",
-      title: "Digital Painting",
-      coverImage: "/images/still/Digital painting/THE EXHIBITION.jpg",
-      layout: "portrait",
-      projects: [
-        {
-          id: 1,
-          src: "/images/still/Digital painting/THE EXHIBITION.jpg",
-          title: "The Exhibition",
-        },
-        {
-          id: 2,
-          src: "/images/still/Digital painting/FallFromGrace.jpg",
-          title: "Fall From Grace",
-        },
-        {
-          id: 3,
-          src: "/images/still/Digital painting/igbadun is important.jpg",
-          title: "Igbadun",
-        },
-        { id: 4, src: "/images/still/Digital painting/pig1.jpg", title: "Pig" },
-        {
-          id: 5,
-          src: "/images/still/Digital painting/سنة_2.jpg",
-          title: "Arabic Art",
-        },
-      ],
-    },
-    {
-      id: "pencil",
-      title: "Pencil",
-      coverImage: "/images/still/pencil/pencil.jpg",
-      layout: "portrait",
-      projects: [
-        { id: 1, src: "/images/still/pencil/pencil.jpg", title: "Pencil" },
-        { id: 2, src: "/images/still/pencil/pencil2.jpg", title: "Pencil 2" },
-        { id: 3, src: "/images/still/pencil/klint.jpg", title: "Klint" },
-        { id: 4, src: "/images/still/pencil/lasisi.jpg", title: "Lasisi" },
-        { id: 5, src: "/images/still/pencil/nas.jpg", title: "Nas" },
-      ],
-    },
-    {
       id: "posters",
       title: "Posters",
       coverImage: "/images/still/posters/12 Hours Poster.jpg",
@@ -108,6 +66,56 @@ export default function WorkPage() {
           id: 3,
           src: "/images/still/posters/UEFAchamps.jpg",
           title: "UEFA Champs",
+        },
+      ],
+    },
+    {
+      id: "pencil",
+      title: "Pencil",
+      coverImage: "/images/still/pencil/pencil.jpg",
+      layout: "portrait",
+      projects: [
+        { id: 1, src: "/images/still/pencil/pencil.jpg", title: "Pencil" },
+        { id: 2, src: "/images/still/pencil/pencil2.jpg", title: "Pencil 2" },
+        { id: 3, src: "/images/still/pencil/klint.jpg", title: "Klint" },
+        { id: 4, src: "/images/still/pencil/lasisi.jpg", title: "Lasisi" },
+        { id: 5, src: "/images/still/pencil/nas.jpg", title: "Nas" },
+      ],
+    },
+    {
+      id: "adekunle-gold",
+      title: "Adekunle Gold",
+      coverImage:
+        "/images/still/Adekunle Gold/Adekunle Gold at the National Theatre (3).jpg",
+      layout: "portrait",
+      projects: [
+        {
+          id: 1,
+          src: "/images/still/Adekunle Gold/Adekunle Gold at the National Theatre (3).jpg",
+          title: "National Theatre 1",
+        },
+        {
+          id: 2,
+          src: "/images/still/Adekunle Gold/Adekunle Gold at the National Theatre (4).jpg",
+          title: "National Theatre 2",
+        },
+        {
+          id: 3,
+          src: "/images/still/Adekunle Gold/Adekunle Gold at the National Theatre (5).jpg",
+          title: "National Theatre 3",
+        },
+      ],
+    },
+    {
+      id: "kcee-live",
+      title: "Kcee Live",
+      coverImage: "/images/still/Kcee Live/KCEE_live.jpg",
+      layout: "portrait",
+      projects: [
+        {
+          id: 1,
+          src: "/images/still/Kcee Live/KCEE_live.jpg",
+          title: "Kcee Live",
         },
       ],
     },
@@ -146,39 +154,31 @@ export default function WorkPage() {
       ],
     },
     {
-      id: "kcee-live",
-      title: "Kcee Live",
-      coverImage: "/images/still/Kcee Live/KCEE_live.jpg",
+      id: "digital-painting",
+      title: "Digital Painting",
+      coverImage: "/images/still/Digital painting/igbadun is important.jpg",
       layout: "portrait",
       projects: [
         {
           id: 1,
-          src: "/images/still/Kcee Live/KCEE_live.jpg",
-          title: "Kcee Live",
-        },
-      ],
-    },
-    {
-      id: "adekunle-gold",
-      title: "Adekunle Gold",
-      coverImage:
-        "/images/still/Adekunle Gold/Adekunle Gold at the National Theatre (3).jpg",
-      layout: "portrait",
-      projects: [
-        {
-          id: 1,
-          src: "/images/still/Adekunle Gold/Adekunle Gold at the National Theatre (3).jpg",
-          title: "National Theatre 1",
+          src: "/images/still/Digital painting/THE EXHIBITION.jpg",
+          title: "The Exhibition",
         },
         {
           id: 2,
-          src: "/images/still/Adekunle Gold/Adekunle Gold at the National Theatre (4).jpg",
-          title: "National Theatre 2",
+          src: "/images/still/Digital painting/FallFromGrace.jpg",
+          title: "Fall From Grace",
         },
         {
           id: 3,
-          src: "/images/still/Adekunle Gold/Adekunle Gold at the National Theatre (5).jpg",
-          title: "National Theatre 3",
+          src: "/images/still/Digital painting/igbadun is important.jpg",
+          title: "Igbadun",
+        },
+        { id: 4, src: "/images/still/Digital painting/pig1.jpg", title: "Pig" },
+        {
+          id: 5,
+          src: "/images/still/Digital painting/سنة_2.jpg",
+          title: "Arabic Art",
         },
       ],
     },
