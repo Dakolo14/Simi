@@ -82,7 +82,7 @@ export default function Home() {
       />
       <div className="h-screen inset-0 pointer-events-none fixed flex flex-col items-center justify-center text-center px-3 mix-blend-exclusion text-white gap-8">
         <h1 className="font-serif text-4xl md:text-7xl tracking-tight">
-          <span className="italic">I create;</span> therefore I am
+          <span className="italic">Engineer</span> Moments of Wonder
         </h1>
         <div className="flex items-center gap-4 pointer-events-auto">
           <Link
