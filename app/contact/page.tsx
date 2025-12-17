@@ -5,13 +5,15 @@ import Link from "next/link";
 
 export default function ContactPage() {
   const socialLinks = [
-    { name: "Instagram", href: "https://instagram.com", handle: "@simeone" },
-    { name: "Twitter", href: "https://twitter.com", handle: "@simeone_art" },
-    { name: "LinkedIn", href: "https://linkedin.com", handle: "Simeone Ajose" },
     {
-      name: "Behance",
-      href: "https://behance.net",
-      handle: "Simeone Portfolio",
+      name: "Instagram",
+      href: "https://www.instagram.com/simiowaire/",
+      handle: "@simiowaire",
+    },
+    {
+      name: "LinkedIn",
+      href: "https://www.linkedin.com/in/simeon-omamogho-78108318b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      handle: "Simeon Omamogho",
     },
   ];
 

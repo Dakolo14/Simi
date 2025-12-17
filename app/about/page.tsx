@@ -20,20 +20,18 @@ export default function AboutPage() {
         {/* Main Content */}
         <div className="space-y-8 text-lg md:text-xl font-light text-white/80 leading-relaxed">
           <p>
-            I am Simeone, a multidisciplinary creative based in Lagos. My work
-            exists at the intersection of design, motion, and technology—where
-            static pixels come alive and stories unfold.
+            I’m Simeon, a multidisciplinary creative alchemist who blends the
+            rich landscapes of graphic design, motion, digital art, and the
+            tactile soul canvas.
           </p>
           <p>
-            I don't just make things look good; I make them feel right. Whether
-            it's a brand identity that speaks without words or a motion piece
-            that captures a fleeting emotion, my process is rooted in deep
-            observation and precise execution.
+            I see concepts not as abstract ideas, but as undiscovered worlds. My
+            process is translation, turning whispers of thought into symphonies
+            of sight, sound, and interaction. I build bridges between the
+            imaginative and the tangible, crafting visual experiences that don’t
+            just capture eyes, but command presence and spark connection.
           </p>
-          <p>
-            In a world of noise, I strive for the signal. Clean, impactful, and
-            undeniably human.
-          </p>
+          <p>I don't just make art; I engineer moments of wonder.</p>
         </div>
 
         {/* Footer / Contact Link */}
