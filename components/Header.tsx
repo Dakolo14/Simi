@@ -16,7 +16,7 @@ export default function Header() {
     { name: "Contact", href: "/contact" },
     {
       name: "Resume",
-      href: "/Ajose Damilare Official Resume.pdf",
+      href: "/simeon.o cv.pdf",
       download: true,
     },
   ];

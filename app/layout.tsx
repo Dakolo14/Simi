@@ -22,8 +22,16 @@ export const metadata: Metadata = {
   generator: "v0.app",
   icons: {
     icon: [
-      { url: "/images/favicon/favicon-32x32.png", sizes: "32x32", type: "image/png" },
-      { url: "/images/favicon/favicon-16x16.png", sizes: "16x16", type: "image/png" },
+      {
+        url: "/images/favicon/favicon-32x32.png",
+        sizes: "32x32",
+        type: "image/png",
+      },
+      {
+        url: "/images/favicon/favicon-16x16.png",
+        sizes: "16x16",
+        type: "image/png",
+      },
     ],
     shortcut: "/images/favicon/favicon.ico",
     apple: "/images/favicon/apple-touch-icon.png",
