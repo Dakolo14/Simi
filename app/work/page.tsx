@@ -242,6 +242,17 @@ export default function WorkPage() {
         { id: 1, src: "/images/still/konga web/NSF5.jpg", title: "NSF5" },
       ],
     },
+    {
+      id: "trace",
+      title: "Trace",
+      coverImage: "/images/still/trace/adekunle-gold.jpg",
+      layout: "landscape",
+      projects: [
+        { id: 1, src: "/images/still/trace/adekunle-gold.jpg", title: "Adekunle Gold" },
+        { id: 2, src: "/images/still/trace/eazi.jpg", title: "Eazi" },
+        { id: 3, src: "/images/still/trace/runtown.jpg", title: "Runtown" },
+      ],
+    },
   ];
 
   const motionCollections: Collection[] = [
